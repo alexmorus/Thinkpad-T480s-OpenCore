@@ -26,5 +26,5 @@ Idle power draw varies from 3 to 5 watts. CPU goes down to 0.8 watts consumption
 
 # Credits
 This repo is based on the following projects(without which this wouldn't have been possible). Thank you guys for your hard work!
-- [@tylernguyen](https://github.com/tylernguyen)
-- [@benbender](https://github.com/benbender)
+- [[tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh)
+- [@benbender/x1c6-hackintosh](https://github.com/benbender/x1c6-hackintosh)
