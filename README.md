@@ -1,5 +1,7 @@
 # Thinkpad-T480s-OpenCore
 The state of this project is stable. I have been daily-driving it for more than a year, with only small issues.
+In its current state, the repo will work with macOS Monterey. It will not, however, work with stock bios laptops. Fixes for that will(probably) be added in the future(possible fixes for stock bios laptops are found on Tyler Nguyen's repo: [tylernguyen/x1c6-hackintosh](https://github.com/tylernguyen/x1c6-hackintosh)).
+
 
 Laptop specs:
   - Processor: i5 8350u
