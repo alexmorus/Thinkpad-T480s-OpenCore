@@ -11,6 +11,7 @@ Laptop specs:
   - X1Y3 touchpad(as it is glass, and feels way better)
   - Low Power IPS panel from T490(can't recall its model number, if anyone needs it pm me and I'll look for it)
   - Modded bios(unlocked cfgLock, bios-level undervolt)
+  - BCM94360CS2 WiFi card (from 2014 Macbook Pro I think) for native Continuity features
 
 
 Known issues: 
